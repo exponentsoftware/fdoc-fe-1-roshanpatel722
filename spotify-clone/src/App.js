@@ -28,7 +28,6 @@ function App() {
           <h1>I am logged in</h1>:
           <Login />
       }
-      <Login />
     </div>
   );
 }
