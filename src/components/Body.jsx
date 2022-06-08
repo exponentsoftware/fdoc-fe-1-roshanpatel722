@@ -190,7 +190,7 @@ const Container = styled.div`
       display: flex;
       flex-direction: column;
       gap: 1rem;
-      color: #e0dede;
+      color: #FF06B7;
       .title {
         color: white;
         font-size: 4rem;
@@ -208,7 +208,7 @@ const Container = styled.div`
       padding: 1rem 3rem;
       transition: 0.3s ease-in-out;
       background-color: ${({ headerBackground }) =>
-        headerBackground ? "#000000dc" : "none"};
+        headerBackground ? "#371B58" : "none"};
     }
     .tracks {
       margin: 0 2rem;
@@ -225,7 +225,7 @@ const Container = styled.div`
         .col {
           display: flex;
           align-items: center;
-          color: #dddcdc;
+          color: #F47C7C;
           img {
             height: 40px;
             width: 40px;
